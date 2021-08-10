@@ -1,6 +1,5 @@
-# HaveAGoddFarm
 # Have A Good Farm 
-![logo](https://github.com/LauraBoraKim/HaveAGoodFarm/blob/main/img/logo2.png?raw=true){: width="200"}
+<img src = "https://github.com/LauraBoraKim/HaveAGoodFarm/blob/main/img/logo2.png?raw=true" width="200">
 ## 주제
 가정용 스마트팜 HW와 원격 제어 웹 서비스 개발
 
